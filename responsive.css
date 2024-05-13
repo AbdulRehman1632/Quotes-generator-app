@@ -1,0 +1,13 @@
+@media screen and (max-width:600px) {
+
+    .box {
+        width: 78%;
+        margin: auto;
+        height: 50vh;
+    }
+
+    h1 {
+        margin-bottom: 30px;
+        font-size: 1.8em;
+    }
+}
